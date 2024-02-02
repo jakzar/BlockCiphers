@@ -34,11 +34,13 @@ Rounds: 10 or 12 (depending on key size)
 
 ## Test vectors
 
-Test vectors can be found in the files: 
-1.**128bit key**
-      -File[test_vectors128.txt](./test_vectors128.txt)
-2.**64bit key**
-      -File[test_vectors64.txt](./test_vectors64.txt)
+Test vectors can be found in the files:
+
+1. **128bit key**
+    - File: [test_vectors128.txt](./test_vectors128.txt)
+  
+2. **64bit key**
+    - File: [test_vectors64.txt](./test_vectors64.txt)
 
 ## Setup and Requirements
 
